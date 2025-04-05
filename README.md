@@ -1,5 +1,9 @@
 ## Hi there 👋
-Me chamo Ana Lígia e atuo como QA
+Sou analista de testes e qualidade de software – QA, e trabalho com testes funcionais e não-funcionais, no planejamento e execução de casos de testes, cenários de testes e critérios de aceitação, utilizando também o padrão de escrita Gherkin na metodologia BDD, além de API com uso de ferramentas como Postman e Insomnia. Na automação de testes front-end, já utilizei ferramentas como Cypress. 
+ 
+Atuando em times ágeis, participo de ciclos de desenvolvimento de produtos.
+
+
 <!--
 **AnaBragagnolo/AnaBragagnolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
