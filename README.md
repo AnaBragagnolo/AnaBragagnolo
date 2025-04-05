@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Me chamo Ana Lígia e atuo como QA
 <!--
 **AnaBragagnolo/AnaBragagnolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
