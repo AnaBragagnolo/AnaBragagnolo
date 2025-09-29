@@ -1,20 +1,20 @@
-## Hi there 👋
-Sou analista de testes e qualidade de software – QA, e trabalho com testes funcionais e não-funcionais, no planejamento e execução de casos de testes, cenários de testes e critérios de aceitação, utilizando também o padrão de escrita Gherkin na metodologia BDD, além de API com uso de ferramentas como Postman e Insomnia. Na automação de testes front-end, já utilizei ferramentas como Cypress. 
- 
-Atuando em times ágeis, participo de ciclos de desenvolvimento de produtos.
+# 👋 Olá, eu sou a Ana  
 
+**Analista de QA** me especializando em **automação de testes**  
 
-<!--
-**AnaBragagnolo/AnaBragagnolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias & Ferramentas  
+- 🧪 Testes: Funcionais, Não-funcionais, Exploratórios, Regressivos, Smoke  
+- 📜 BDD: Cenários e casos de teste em **Gherkin**  
+- 🤖 Automação: **Cypress**, Robot Framework  
+- 🌐 API Testing: **Postman**  
+- 🗄️ Banco de Dados  
+- 📊 Gestão: **GitLab**, **Azure DevOps**, **Qase**  
 
-Here are some ideas to get you started:
+## Formação & Certificações  
+- 🎓 Pós-graduação em **Automação de Testes de Software** *(em andamento)*  
+- 📜 Certificação **ISTQB – CTFL**  
+- Cursos em: Arquitetura e Engenharia de Software, Metodologias Ágeis (Scrum/Kanban), Testes Web/Mobile/API  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Um pouco sobre mim  
+Apaixonada por qualidade e automação, atuo em times ágeis durante todo o ciclo de vida do produto.  
+Minha missão é garantir entregas confiáveis, escaláveis e que gerem valor real para o usuário. 
